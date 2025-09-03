@@ -11,5 +11,3 @@ If sellers had a way to estimate in advance whether their listed price is likely
 they could make more informed pricing decisions, better manage expectations, and potentially
 maximize their return.
 
-In this assignment, your task is to build a binary classification model that predicts whether a property
-will be sold at a higher or lower price than the advertised price set by the seller.
